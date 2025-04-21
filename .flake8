@@ -1,0 +1,25 @@
+[flake8]
+max-line-length = 88
+exclude =
+    .venv,
+    JSON_File_Debug_Script.py,
+    Test_1_wifi_connect.py,
+    Test_2_temperature-sender.py,
+    Time_Test.py,
+    clear_db_test.py,
+    get_DS18B20_ID.py,
+    WiFi_List.py,
+    Cool_OFF.py,
+    Cool_ON.py,
+    OFF_Cool_Heat.py,
+    ON_Cool_Heat.py,
+    Fermenter_Settings*.py,
+    settings_1.py,
+    settings_2wip.py,
+    te__relay_C_O_H__db__routs_*.py,
+    d_t_routs.py,
+    json_routines_orr.py,
+    save_clear_db.py,
+    display_drive.py,
+    debug_config.py,
+    main_prog.py

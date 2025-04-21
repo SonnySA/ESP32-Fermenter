@@ -1,0 +1,8 @@
+{
+    "DEBUG_MODE": true,
+    "MAIN_LOOP_INTERVAL": 15,
+    "DISPLAY_TOGGLE_INTERVAL_MS": 500,
+    "WATCHDOG_BLIP_INTERVAL_MS": 1000,
+    "SERVER_URL": "http://192.168.2.101/FMuBrewer/FMuBrewer-1.php",
+    "LOCAL_SETTINGS_FILE": "fermenter_settings.ujson"
+}
